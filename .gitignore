@@ -1,0 +1,43 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Crash Reports
+*.stacktrace
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity Asset Store
+[Aa]ssets/AssetStoreTools*
+
+# Builds
+*.apk
+*.aab
+
+# Package Manager
+Packages/packages-lock.json
+
+# Backups
+*.bak
+*.old
+
+# Temporary generated files
+sysinfo.txt
